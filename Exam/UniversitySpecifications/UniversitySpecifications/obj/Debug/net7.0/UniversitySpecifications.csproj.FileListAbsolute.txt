@@ -1,0 +1,14 @@
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\bin\Debug\net7.0\UniversitySpecifications.exe
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\bin\Debug\net7.0\UniversitySpecifications.deps.json
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\bin\Debug\net7.0\UniversitySpecifications.runtimeconfig.json
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\bin\Debug\net7.0\UniversitySpecifications.dll
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\bin\Debug\net7.0\UniversitySpecifications.pdb
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\UniversitySpecifications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\UniversitySpecifications.AssemblyInfoInputs.cache
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\UniversitySpecifications.AssemblyInfo.cs
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\UniversitySpecifications.csproj.CoreCompileInputs.cache
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\UniversitySpecifications.dll
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\refint\UniversitySpecifications.dll
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\UniversitySpecifications.pdb
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\UniversitySpecifications.genruntimeconfig.cache
+D:\Education\3\Data Structure\Project\Emtehan payani\UniversitySpecifications\UniversitySpecifications\obj\Debug\net7.0\ref\UniversitySpecifications.dll

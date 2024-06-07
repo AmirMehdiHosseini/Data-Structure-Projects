@@ -1,0 +1,15 @@
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\bin\Debug\net7.0\BinarySearchTreeProgram.exe
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\bin\Debug\net7.0\BinarySearchTreeProgram.deps.json
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\bin\Debug\net7.0\BinarySearchTreeProgram.runtimeconfig.json
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\bin\Debug\net7.0\BinarySearchTreeProgram.dll
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\bin\Debug\net7.0\BinarySearchTreeProgram.pdb
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\BinarySearchTreeProgram.csproj.AssemblyReference.cache
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\BinarySearchTreeProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\BinarySearchTreeProgram.AssemblyInfoInputs.cache
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\BinarySearchTreeProgram.AssemblyInfo.cs
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\BinarySearchTreeProgram.csproj.CoreCompileInputs.cache
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\BinarySearchTreeProgram.dll
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\refint\BinarySearchTreeProgram.dll
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\BinarySearchTreeProgram.pdb
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\BinarySearchTreeProgram.genruntimeconfig.cache
+D:\Education\3\Data Structure\Project\Last Project\BST\BinarySearchTreeProgram\BinarySearchTreeProgram\obj\Debug\net7.0\ref\BinarySearchTreeProgram.dll

@@ -1,0 +1,15 @@
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\bin\Debug\net7.0\DoublyLinkedListProgram.exe
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\bin\Debug\net7.0\DoublyLinkedListProgram.deps.json
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\bin\Debug\net7.0\DoublyLinkedListProgram.runtimeconfig.json
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\bin\Debug\net7.0\DoublyLinkedListProgram.dll
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\bin\Debug\net7.0\DoublyLinkedListProgram.pdb
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\DoublyLinkedListProgram.csproj.AssemblyReference.cache
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\DoublyLinkedListProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\DoublyLinkedListProgram.AssemblyInfoInputs.cache
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\DoublyLinkedListProgram.AssemblyInfo.cs
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\DoublyLinkedListProgram.csproj.CoreCompileInputs.cache
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\DoublyLinkedListProgram.dll
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\refint\DoublyLinkedListProgram.dll
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\DoublyLinkedListProgram.pdb
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\DoublyLinkedListProgram.genruntimeconfig.cache
+D:\Education\Data Structure\Project\DoublyLinkedList\DoublyLinkedListProgram\DoublyLinkedListProgram\obj\Debug\net7.0\ref\DoublyLinkedListProgram.dll

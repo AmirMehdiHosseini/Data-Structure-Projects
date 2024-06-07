@@ -1,0 +1,30 @@
+Project Number: 3
+Project Name: Digikala
+Student Number: 401121014
+Student Name: Ali
+
+
+Project Number: 12
+Project Name: Alibaba
+Student Number: 401121017
+Student Name: Amir
+
+
+Project Number: 5
+Project Name: Snap
+Student Number: 401121013
+Student Name: Morteza
+
+
+Project Number: 7
+Project Name: Tap30
+Student Number: 401121056
+Student Name: Karim
+
+
+Project Number: 34
+Project Name: Jobinja
+Student Number: 401121021
+Student Name: Gholam
+
+
